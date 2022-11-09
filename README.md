@@ -1,11 +1,11 @@
-	### POC project 
-	
-	#### You ought to install ``` NodeJs + npm ``` to execute the this script
+### POC project 
 
-	
-	- To setup the project 
-		` npm i `
+#### You ought to install ``` NodeJs + npm ``` to execute the this script
 
 
-	- To execute the tests 
-		` npx jest `
+- To setup the project 
+	` npm i `
+
+
+- To execute the tests 
+	` npx jest `
